@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Track and Gym</string>
+    <string name ="groin_stretch">Lie down flat on your back. Bend your knees and move your soles inward so that they are touching. Move your knees down toward the floor so that you feel your groin muscles stretching. Breathe deeply and hold this position for 20 to 30 seconds </string>
+    <string name="hamstring_stretch">Lie flat on either the ground or a mat with the legs fully stretched out. To stretch the right leg, hold the back of the right knee with both hands, pull the leg up toward the chest, and slowly straighten the knee until it feels as though it is stretching. Hold the stretch for 10–30 seconds.</string>
+    <string name="back_stretch">Begin in a tabletop position on your hands and knees, with your hands directly under your shoulders and knees under your hips. Extend your arms out in front of you, placing your palms flat on the floor. Slowly sit your hips back toward your heels, dropping your head and chest downward as your arms extend further</string>
+    <string name="arm_stretch">Start standing or sitting tall. Grab one arm above your elbow with your opposite hand, and pull it across your body toward your chest until you feel a stretch in your shoulder. Make sure to keep your elbow below shoulder height. Hold for at least 30 seconds and then repeat on the other side</string>
+    <string name="sprint"> Warm up your body for five minutes with walking, light jogging, or dynamic stretches. Sprint: Take your first sprint at a moderate pace, about 50 to 60 percent of your maximum effort. Sprint for 30 seconds. Active recovery: Slow down your speed or walk for 60 to 120 seconds</string>
+    <string name="jog">Beginners should plan to run three to four days per week with at least one day of complete rest and optional cross-training on the other days. The duration of your initial run/walk sessions should be 20-30 minutes, increasing the percentage of time spent running in subsequent workouts.</string>
+    <string name="bench">Lie on your back on a flat bench. Grip a barbell with hands slightly wider than shoulder width. The bar should be directly over the shoulders. Press your feet firmly into the ground and keep your hips on the bench throughout the entire movement.
+Keep your core engaged and maintain a neutral spine position throughout the movement. Avoid arching your back.
+Slowly lift the bar or dumbbells off the rack, if using. Lower the bar to the chest, about nipple level, allowing elbows to bend out to the side, about 45 degrees away from the body.
+Stop lowering when your elbows are just below the bench. Press feet into the floor as you push the bar back up to return to starting position.
+Perform 5 to 10 reps, depending on weight used. Perform up to 3 sets.</string>
+    <string name="squat">Stand with the bar on your upper-back, and your feet shoulder-width apart
+Squat down by pushing your knees to the side while moving hips back
+Break parallel by Squatting down until your hips are lower than your knees
+Squat back up while keeping your knees out and chest up
+Stand with your hips and knees locked at the top</string>
+    <string name="bicepcurl">Stand by holding a dumbbell in each hand with your arms hanging by your sides. Ensure your elbows are close to your torso and your palms facing forward. Keeping your upper arms stationary, exhale as you curl the weights up to shoulder level while contracting your biceps.</string>
+    <string name="threadmillstring">Its best to warm up for at least five minutes at an easy to moderate walking pace, 2.5 mph to 3 mph. Then increase the pace until you are slightly out of breath for the duration of your workout, anywhere from five minutes to 15 minutes for beginners.</string>
+    <string name="rowmachine">Using the narrow handles (where your palms are facing each other as shown at the beginning of the video) will target the largest back muscle: the latissimus dorsi. I would recommend to use these handles if you’re a beginner or willing to shape your mid-back.
+The wide handles will put more focus on your upper back and shoulders.
+Grasp the handles, keep your back straight, look forward and brace your core.
+Pull the handles towards you whilst keeping your elbows really close to your body (if using the narrow handles). Make sure to squeeze your shoulder blades when bending your elbows.
+When extending your arms, stop just before the weight hits on the weight stack</string>
+    <string name="elliptical">Step onto the trainer, and face the screen. At this point, it may rock back and forth, but don’t worry – the exercise hasn’t started yet.
+Start pedalling in an oval (or elliptical) shape, or alternatively, select a workout programme from the machine’s library.
+If it’s a cross-trainer, pull the hand bars towards you as you go. Not all elliptical trainers have moveable arms, but if they do – use them to work your back and upper-body.
+To make it harder, increase the resistance. These are typically expressed as up or down arrows on the console. At first, introduce resistance slowly so you can get into a good rhythm.
+Keep pulling and pedalling, for as long as you want. There will generally be a ‘Time Elapsed’ card on the screen so you can monitor how long you’ve been working out. </string>
+    <string name="hiit">If you are trying HIIT for the first time, slowly build your work to recovery ratio — you might start with 15 seconds of work to 45 seconds of recovery and over a number of weeks work towards 45 seconds of work to 15 seconds of recovery</string>
+    <string name="fullbody">Squats – 3 sets of 8-10 reps
+Bench press – 3 sets of 8-10 reps
+Rows – 3 sets of 8-10 reps</string>
+
+</resources>
